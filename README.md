@@ -1,8 +1,9 @@
-# FirstAide-Web [![Build Status](https://travis-ci.com/Rainmavis/firstaidetest.svg?branch=develop)](https://travis-ci.org/systers/FirstAide-web)
+# FirstAide-Web [![Build Status](https://travis-ci.com/Rainmavis/firstaidetest.svg?branch=develop)](https://travis-ci.com/Rainmavis/firstaidetest)
 
 
+![Heroku](https://heroku-badge.herokuapp.com//?app=still-temple-60379)
 
-### Abstract [![Heroku](https://heroku-badge.herokuapp.com//?app=still-temple-60379)]
+### Abstract 
 This repo is used as a test environment for the First Aide application web (orginal project can be found in https://github.com/systers/FirstAide-web).
 
 
