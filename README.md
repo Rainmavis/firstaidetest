@@ -48,3 +48,18 @@ Zend Engine v3.2.0, Copyright (c) 1998-2018 Zend Technologies with Zend OPcache 
 - Composer version 1.7.2 2018-08-16 16:57:12
 
 - Git version 2.17.1
+
+1. **Heroku Git URL**  https://git.heroku.com/still-temple-60379.git
+2. **Slug Size:** 17.7 MiB of 500 MiB
+3. **Stack:** heroku-18
+4. **Region:** United States
+5. **Buildpack:** heroku/php
+6. **Domain** https://still-temple-60379.herokuapp.com/
+
+##### Resources
+
+web vendor/bin/heroku-php-apache2
+
+#### Tests
+
+ 1. **Unit tests:** Phpunit version higher than 6.1
