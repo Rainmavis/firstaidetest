@@ -17,18 +17,34 @@ To contribute for this project, you can clone it:
 Or download the ZIP file from above
 
 ### Test Environment Features
-Database: CLEAR DB (https://www.cleardb.com/) at Google Cloud Platform
+#### Database: 
+CLEAR DB (https://www.cleardb.com/) at Google Cloud Platform
+
 Info of Service Plan: 
-1. Database Size: up to 10MB
-2. Connections: up to 5
-3. Performance: Low
-4. Masters: 3
-5. Unit memory: Shared
-6. Entrypoints: 1
+
+1. **Database Size:** up to 10MB
+2. **Connections:** up to 5
+3. **Performance:** Low
+4. **Masters:** 3
+5. **Unit memory:** Shared
+6. **Entrypoints:** 1
 
 - MySQL 5.5
 - Daily backups
 - 90 day free evaluation period.
+
 ClearDB's Database-as-a-Service (DBaaS) at Google Cloud Platform provides: Native, Unaltered MySQL, Fully Managed, Instant Deployment, Multiple Maters, Sub-second Automatic Failover, Multi-Regional Deployments, Instant Scaling, Scalability, Self Healing Technologies, Automatic Patching, Flat Rate Monthly Billing, Automated Backups, User-Initiated Snapshots, SSL Wire-Level Encryption, Automatic Backups Encryption, 40 to 50 max concurrent connections/Master.
 
 More info: https://w2.cleardb.net/google/
+
+#### Deployment at Heroku
+
+PHP and Composer is installed locally.
+
+- PHP 7.2.12 (cli) (buildt: Nov 8 2018 05:12:43) (NTS)
+Copyright (c) 1997-2018 The PHP Group
+Zend Engine v3.2.0, Copyright (c) 1998-2018 Zend Technologies with Zend OPcache v7.2.12, Copyright (c) 1999-2018, by Zend Technologies.
+
+- Composer version 1.7.2 2018-08-16 16:57:12
+
+- Git version 2.17.1
