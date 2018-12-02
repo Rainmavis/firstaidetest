@@ -2,7 +2,7 @@
 
 
 
-### Abstract [![Heroku](https://still-temple-60379.herokuapp.com//?app=still-temple-60379)]
+### Abstract [![Heroku](https://heroku-badge.herokuapp.com//?app=still-temple-60379)]
 This repo is used as a test environment for the First Aide application web (orginal project can be found in https://github.com/systers/FirstAide-web).
 
 
