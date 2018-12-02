@@ -1,4 +1,4 @@
 <?php
 
-define("HOST", "http://firstaideweb.herokuapp.com/");
+define("HOST", "https://still-temple-60379.herokuapp.com/");
 //define("HOST", "http://localhost/FirstAide-web/");
