@@ -1,4 +1,4 @@
-# FirstAide-Web [![Build Status](https://travis-ci.com/Rainmavis/firstaidetest.svg?branch=develop)](https://travis-ci.com/Rainmavis/firstaidetest)
+# First Aide - Test Environment
 
 
 ![Heroku](https://heroku-badge.herokuapp.com//?app=still-temple-60379)
